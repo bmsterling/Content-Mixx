@@ -4,7 +4,7 @@
 	Plugin URI: http://benjaminsterling.com/wordpress-plugins/contentmixx/
 	Description: This plugin retrieves one or more random post/page or both of them from your WordPress installation
 	Author: Benjamin Sterling
-	Version: 0.1
+	Version: 0.2.1
 	Author URI: http://www.benjaminsterling.com
 
 	Copyright 2008 by Benjamin Sterling

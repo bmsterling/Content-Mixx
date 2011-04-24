@@ -4,7 +4,7 @@ Donate link:http://benjaminsterling.com/donations/
 Tags: random post, random page, content
 Requires at least: 2.3
 Tested up to: 3.1.1
-Stable tag: 0.2
+Stable tag: 0.2.1
 
 This plugin retrieves one or more random post/page or both of them from your WordPress installation
 
@@ -49,7 +49,7 @@ This plugin retrieves one or more random post/page or both of them from your Wor
 
 Please submit any bugs or suggested improvements to <a href=\"https://github.com/bmsterling/Content-Mixx/issues\">https://github.com/bmsterling/Content-Mixx/issues</a>
 
-Need this plugin customize or need a plugin create, contact me via my contact form at <a href=\"http://kenzomedia.com\">http://kenzomedia.com</a>
+Need this plugin customized or need a plugin created, contact me via my contact form at <a href=\"http://kenzomedia.com\">http://kenzomedia.com</a>
 
 Also available through twitter, @bmsterling
 
